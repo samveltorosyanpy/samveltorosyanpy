@@ -33,4 +33,4 @@
 [![telegram](https://img.shields.io/badge/-telegram-252525?style=for-the-badge&logo=telegram&logoColer=0d6eb5)](https://t.me/aytishnik007)
 [![facebook](https://img.shields.io/badge/-facebook-252525?style=for-the-badge&logo=facebook&logoColer=0d6eb5)](https://www.facebook.com/samvel.torosyan.397/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samveltorosyanpy&show_icons=true&&hide=contribs&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samveltorosyanpy&show_icons=true&bg_color=252525&icon_color=0d6eb5&border_color=ffffff&text_color=ffffff&title_color=0d6eb5&hide=contribs)
