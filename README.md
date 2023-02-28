@@ -1,8 +1,8 @@
 [![Header](https://github.com/samveltorosyanpy/samveltorosyanpy/blob/master/assets/Header.png)](https://www.linkedin.com/in/samvel-torosyan/)
 
-# I'm Javascript and Python developer
+# I'm a Javascript and Python developer
 
-## My Skills
+## Professional Skills
 ### language and tools
 ![Python](https://img.shields.io/badge/-Python-252525?style=for-the-badge&logo=python&logoColer=0d6eb5)
 ![Javascript](https://img.shields.io/badge/-javascript-252525?style=for-the-badge&logo=javascript&logoColer=0d6eb5)
@@ -17,13 +17,14 @@
 ![Postgresql](https://img.shields.io/badge/-Postgresql-252525?style=for-the-badge&logo=Postgresql&logoColer=0d6eb5)
 ![mongodb](https://img.shields.io/badge/-mongodb-252525?style=for-the-badge&logo=mongodb&logoColer=0d6eb5)
 
-## Follow Me
+## Work time experience.
+
+
+## Contact Me
+![gmail](https://img.shields.io/badge/-samveltorosyan90@gmail.com-252525?style=for-the-badge&logo=gmail&logoColer=0d6eb5)
+
 [![linkedin](https://img.shields.io/badge/-linkedin-252525?style=for-the-badge&logo=linkedin&logoColer=0d6eb5)](https://www.linkedin.com/in/samvel-torosyan/)
 [![telegram](https://img.shields.io/badge/-telegram-252525?style=for-the-badge&logo=telegram&logoColer=0d6eb5)](https://t.me/aytishnik007)
 [![facebook](https://img.shields.io/badge/-facebook-252525?style=for-the-badge&logo=facebook&logoColer=0d6eb5)](https://www.facebook.com/samvel.torosyan.397/)
-[![instagram](https://img.shields.io/badge/-instagram-252525?style=for-the-badge&logo=instagram&logoColer=0d6eb5)](https://www.instagram.com/1_sam___/)
-[![upwork](https://img.shields.io/badge/-upwork-252525?style=for-the-badge&logo=upwork&logoColer=0d6eb5)](https://www.upwork.com/freelancers/~01ccfb2cf494448a03)
-
-![gmail](https://img.shields.io/badge/-samveltorosyan90@gmail.com-252525?style=for-the-badge&logo=gmail&logoColer=0d6eb5)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samveltorosyanpy&show_icons=true&&hide=contribs&theme=tokyonight)
