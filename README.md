@@ -19,10 +19,10 @@
 ![mongodb](https://img.shields.io/badge/-mongodb-252525?style=for-the-badge&logo=mongodb&logoColer=0d6eb5)
 
 ## Work time experience.
-### I'm currently working in NRgaming company.</br></br>You can check my last projects below.</br></br>
+### I'm currently working in NRgaming company.</br></br>You can check my last projects below.</br>
 [![workNrAir](https://img.shields.io/badge/-NrApacheAirflow-252525?style=for-the-badge&logo=github&logoColer=0d6eb5)](https://github.com/samveltorosyanpy/NrApacheAirflow)
 
-### I have created telegram bot for "Cryptocurrency exchange"</br></br> office which is located in Yerevan RA.</br></br>
+### I have created telegram bot for "Cryptocurrency exchange"</br></br> office which is located in Yerevan RA.</br>
 [![workBotChanger](https://img.shields.io/badge/-BOTCHANGER-252525?style=for-the-badge&logo=github)](https://github.com/samveltorosyanpy/botchanger)
 
 ## Contact Me
@@ -31,4 +31,4 @@
 [![telegram](https://img.shields.io/badge/-telegram-252525?style=for-the-badge&logo=telegram&logoColer=0d6eb5)](https://t.me/aytishnik007)
 [![facebook](https://img.shields.io/badge/-facebook-252525?style=for-the-badge&logo=facebook&logoColer=0d6eb5)](https://www.facebook.com/samvel.torosyan.397/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samveltorosyanpy&show_icons=true&bg_color=252525&icon_color=0d6eb5&border_color=252525&text_color=ffffff&title_color=0d6eb5&hide=contribs)
+![Samvel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samveltorosyanpy&show_icons=true&bg_color=252525&icon_color=0d6eb5&border_color=252525&text_color=ffffff&title_color=0d6eb5&hide=contribs)
