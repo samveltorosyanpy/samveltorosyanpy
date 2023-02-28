@@ -26,3 +26,4 @@
 
 ![gmail](https://img.shields.io/badge/-samveltorosyan90@gmail.com-252525?style=for-the-badge&logo=gmail&logoColer=0d6eb5)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samveltorosyanpy&show_icons=true&&hide=contribs&theme=tokyonight)
