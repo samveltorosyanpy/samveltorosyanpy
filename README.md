@@ -20,10 +20,11 @@
 ![mongodb](https://img.shields.io/badge/-mongodb-252525?style=for-the-badge&logo=mongodb&logoColer=0d6eb5)
 
 ## Work time experience.
-<h3>I'm currently working in NRgaming company.</br></br>You can check my last projects below.</br></br>
+### I'm currently working in NRgaming company.</br></br>You can check my last projects below.</br></br>
 [![workNrAir](https://img.shields.io/badge/-NrApacheAirflow-252525?style=for-the-badge&logo=github&logoColer=0d6eb5)](https://github.com/samveltorosyanpy/NrApacheAirflow&#41/)
-<h3>I have created telegram bot for "Cryptocurrency exchange"</br></br> office which is located in Yerevan RA.</br></br>
-[![work2](https://img.shields.io/badge/BOTCHANGER-252525?style=for-the-badge&logo=github)](https://github.com/samveltorosyanpy/botchanger/)
+
+### I have created telegram bot for "Cryptocurrency exchange"</br></br> office which is located in Yerevan RA.</br></br>
+[![work2](https://img.shields.io/badge/-BOTCHANGER-252525?style=for-the-badge&logo=github)](https://github.com/samveltorosyanpy/botchanger/)
 
 ## Contact Me
 ![gmail](https://img.shields.io/badge/-samveltorosyan90@gmail.com-252525?style=for-the-badge&logo=gmail&logoColer=0d6eb5)
