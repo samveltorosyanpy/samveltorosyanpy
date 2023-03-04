@@ -19,17 +19,16 @@
 ![mongodb](https://img.shields.io/badge/-mongodb-252525?style=for-the-badge&logo=mongodb&logoColer=0d6eb5)
 
 ## Experience
-### Mid-level developer with more than 1 year of experience</br> building ETL pipelines using Python and Airflow.</br>You can check my last projects below:
-#### https://github.com/samveltorosyanpy/NrApacheAirflow
+### Mid-level developer with 1+ year of experience</br> building ETL pipelines using Python and Airflow.</br>You can check my last projects below:
+#### Apache Airflow</br>https://github.com/samveltorosyanpy/NrApacheAirflow
 
-### I have created telegram bot for "Cryptocurrency exchange"</br></br> office which is located in Yerevan RA.
-### You can check my last projects below:</br>
-#### https://github.com/samveltorosyanpy/botchanger
+### Experienced Python developer with expertise in creating</br>custom Telegram chat bots for various companies.
+#### chat bot for cryptocurrency cashing</br>https://github.com/samveltorosyanpy/botchanger
 
 ## Contact Me
 ### samveltorosyan90@gmail.com
 
-[![linkedin](https://img.shields.io/badge/-linkedin-252525?style=for-the-badge&logo=linkedin&logoColer=0d6eb5)](https://www.linkedin.com/in/samvel-torosyan/)</br>
+[![linkedin](https://img.shields.io/badge/-linkedin-252525?style=for-the-badge&logo=linkedin&logoColer=0d6eb5)](https://www.linkedin.com/in/samvel-torosyan/)
 [![telegram](https://img.shields.io/badge/-telegram-252525?style=for-the-badge&logo=telegram&logoColer=0d6eb5)](https://t.me/aytishnik007)
 
 [//]: # (![Samvel's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=samveltorosyanpy&show_icons=true&bg_color=252525&icon_color=0d6eb5&border_color=252525&text_color=ffffff&title_color=0d6eb5&hide=contribs&#41;)
