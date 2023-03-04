@@ -29,6 +29,6 @@
 ### samveltorosyan90@gmail.com
 
 [![linkedin](https://img.shields.io/badge/-linkedin-252525?style=for-the-badge&logo=linkedin&logoColer=0d6eb5)](https://www.linkedin.com/in/samvel-torosyan/)
-[![telegram](https://img.shields.io/badge/-telegram-252525?style=for-the-badge&logo=telegram&logoColer=0d6eb5)](https://t.me/aytishnik007)
+[![telegram](https://img.shields.io/badge/-telegram-252525?style=for-the-badge&logo=telegram&logoColer=0d6eb5)](https://t.me/samvelDs)
 
 [//]: # (![Samvel's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=samveltorosyanpy&show_icons=true&bg_color=252525&icon_color=0d6eb5&border_color=252525&text_color=ffffff&title_color=0d6eb5&hide=contribs&#41;)
