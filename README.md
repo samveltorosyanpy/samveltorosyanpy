@@ -19,7 +19,7 @@
 ![mongodb](https://img.shields.io/badge/-mongodb-252525?style=for-the-badge&logo=mongodb&logoColer=0d6eb5)
 
 ## Experience
-### Mid-level developer with 1+ year of experience</br> building ETL pipelines using Python and Airflow.</br>You can check my last projects below:
+### Mid-level developer with 1+ year of experience.</br>Specialized construction of ETL pipelines using<br> Python and Airflow.</br>You can check my last projects below:
 #### Apache Airflow</br>https://github.com/samveltorosyanpy/NrApacheAirflow
 
 ### Experienced Python developer with expertise in creating</br>custom Telegram chat bots for various companies.
