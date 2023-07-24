@@ -1,6 +1,6 @@
 [![Header](https://github.com/samveltorosyanpy/samveltorosyanpy/blob/master/assets/Header.png)](https://www.linkedin.com/in/samvel-torosyan/)
 
-# Javascript and Python developer
+# Python developer
 
 ## Professional Skills
 ### Programming languages
@@ -20,7 +20,8 @@
 ### Databases
 ![MySql](https://img.shields.io/badge/-MySql-252525?style=for-the-badge&logo=MySql&logoColer=0d6eb5)
 ![Postgresql](https://img.shields.io/badge/-Postgresql-252525?style=for-the-badge&logo=Postgresql&logoColer=0d6eb5)
-![mongodb](https://img.shields.io/badge/-mongodb-252525?style=for-the-badge&logo=mongodb&logoColer=0d6eb5)
+![Mongodb](https://img.shields.io/badge/-mongodb-252525?style=for-the-badge&logo=mongodb&logoColer=0d6eb5)
+![Redis](https://img.shields.io/badge/-redis-252525?style=for-the-badge&logo=redis&logoColer=0d6eb5)
 
 ## Experience
 ## PYTHON DEVELOPER
