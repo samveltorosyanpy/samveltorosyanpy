@@ -5,7 +5,7 @@
 ## Professional Skills
 ### language and tools
 ![Python](https://img.shields.io/badge/-Python-252525?style=for-the-badge&logo=python&logoColer=0d6eb5)
-![Javascript](https://img.shields.io/badge/-javascript-252525?style=for-the-badge&logo=javascript&logoColer=0d6eb5)
+![Node.js](https://img.shields.io/badge/-node.js-252525?style=for-the-badge&logo=node.js&logoColer=0d6eb5)
 ![C](https://img.shields.io/badge/-C-252525?style=for-the-badge&logo=C&logoColer=black)
 ![Git](https://img.shields.io/badge/-git-252525?style=for-the-badge&logo=git&logoColer=0d6eb5)
 ![Docker](https://img.shields.io/badge/-Docker-252525?style=for-the-badge&logo=Docker&logoColer=0d6eb5)
