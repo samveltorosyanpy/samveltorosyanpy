@@ -19,16 +19,15 @@
 ![mongodb](https://img.shields.io/badge/-mongodb-252525?style=for-the-badge&logo=mongodb&logoColer=0d6eb5)
 
 ## Experience
-### Mid-level developer with 1+ year of experience.</br>Specialized construction of ETL pipelines using<br> Python and Airflow.</br>You can check my last projects below:
-#### Apache Airflow</br>https://github.com/samveltorosyanpy/NrApacheAirflow
-
-### Experienced Python developer with expertise in creating</br>custom Telegram chat bots for various companies.
-#### chat bot for cryptocurrency cashing</br>https://github.com/samveltorosyanpy/botchanger
-
-## Contact Me
-### samveltorosyan90@gmail.com
+## PYTHON DEVELOPER
+## NrGaming 2021 - Present
+###• Creating a pipeline for automating the execution of scripts.</br>• Python code and SOL query optimization.<br>• PostgreSQL, ClickHouse, MySQL, MongoDB database architecture.</br>• Deploying code to production servers.</br>• Monitoring all pipeline's work.
 
 [![linkedin](https://img.shields.io/badge/-linkedin-252525?style=for-the-badge&logo=linkedin&logoColer=0d6eb5)](https://www.linkedin.com/in/samvel-torosyan/)
 [![telegram](https://img.shields.io/badge/-telegram-252525?style=for-the-badge&logo=telegram&logoColer=0d6eb5)](https://t.me/samvelDs)
 
 [//]: # (![Samvel's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=samveltorosyanpy&show_icons=true&bg_color=252525&icon_color=0d6eb5&border_color=252525&text_color=ffffff&title_color=0d6eb5&hide=contribs&#41;)
+
+
+ 
+
