@@ -23,9 +23,9 @@
 ![Mongodb](https://img.shields.io/badge/-mongodb-252525?style=for-the-badge&logo=mongodb&logoColer=0d6eb5)
 ![Redis](https://img.shields.io/badge/-redis-252525?style=for-the-badge&logo=redis&logoColer=0d6eb5)
 
-## Experience
-## PYTHON DEVELOPER
-## NrGaming 2021 - Present
+### Experience
+### PYTHON DEVELOPER
+### NrGaming 2021 - Present
 #### • Creating a pipeline for automating the execution of scripts.</br>• Python code and SOL query optimization.<br>• PostgreSQL, ClickHouse, MySQL, MongoDB database architecture.</br>• Deploying code to production servers.</br>• Monitoring all pipeline's work.
 
 [![linkedin](https://img.shields.io/badge/-linkedin-252525?style=for-the-badge&logo=linkedin&logoColer=0d6eb5)](https://www.linkedin.com/in/samvel-torosyan/)
